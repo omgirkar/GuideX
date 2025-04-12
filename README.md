@@ -40,7 +40,7 @@ An assistive walking stick prototype designed for visually impaired individuals.
 ##  Circuit Diagram
 
 > ![guidex circuit](https://github.com/user-attachments/assets/5fc7e0f0-804e-4054-8590-034c7a1c7173)
-
+> ve- of buzzer connects to GND
 
 ---
 
